@@ -1,0 +1,8 @@
+---
+applications:
+- buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+  disk_quota: 1024M
+  instances: 2
+  memory: 128M
+  name: apps-gsa-gov
+  path: _site

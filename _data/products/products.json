@@ -1,0 +1,1731 @@
+[
+  {
+    "Standard Name": "GWMicro Window-Eyes 9.4",
+    "Description": "Window-Eyes is a stable, secure and customizable screen reader available on the market today. Featuring comprehensive support for computers running Windows 10, Windows 8.1, Windows 8, Windows 7, Windows Vista, Windows Server 2008, and Windows Server 2012, Window-Eyes enables individuals who are blind or visually impaired to be completely independent on a PC and be more successful and productive at school and in the workplace.",
+    "Category": "508 Accessibility Software",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Fiberlink MaaS360",
+    "Description": "Software-as-a-service (SaaS) that delivers enterprise mobile device, application, document, and expense management. MaaS360 provides rapid deployment, and comprehensive visibility and control that spans across mobile devices, applications, and documents. MaaS360 supports all devices including the iPhone, iPad, Android, Windows Phone, BlackBerry, and Kindle Fire.",
+    "Category": "Asset Management,Mobile",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "ACR Systems - TrendReader 2 Express",
+    "Description": "The software retrieves data from the manufacturer's hardware which consists of a temperature and humidity sensor.",
+    "Category": "Building Automation",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "DHS Cyber Security Evaluation Tool (CSET) 6.1",
+    "Description": "This software is a Department of Homeland Security (DHS) product that assists organizations in protecting their key national cyber assets. It was developed under the direction of the DHS Industrial Control System Cyber Emergency Response Team (ICS-CERT) by cybersecurity experts. This tool provides users with a systematic and repeatable approach for assessing the security posture of their cyber systems and networks. It includes both high-level and detailed questions related to all industrial control and IT systems.",
+    "Category": "Building Automation",
+    "Status": "Approved - Preferred",
+    "Comments": "Click the link for the EARC approval.https://gsa.my.salesforce.com/0D53000001xTeAA"
+  },
+  {
+    "Standard Name": "Eaton Meter Configuration Software 1",
+    "Description": "Eaton Meter Configuration Software it's used for IQ 100 Power Xpert Meter 2000.",
+    "Category": "Building Automation",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Guard1 Plus Single User",
+    "Description": "This software system documents the guard tours which provides an extra layer of accountability. This software include a powerful reporting features make it easy and efficient to manage your guard force. Rules act as filters for your patrol data. Specify a timeframe and the number of visits required, and Guard1 Plus can generate an exception report. A wide variety of reports are available, showing exception, visit history, observations and incidents, expected vs. actual visits, and more.",
+    "Category": "Building Automation",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Johnson Controls Metasys 6.1",
+    "Description": "The Launcher provides you with a convenient way to access any release of the Site Management Portal (SMP) and System Configuration Tool (SCT) user interfaces. It also provides a simple method of creating bookmarks for any of your website links.If your site or engines have been upgraded to Release 6, Launcher also removes a previous dependency on the public Java Runtime Engine (JRE).",
+    "Category": "Building Automation",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Schlage Express Software 4.4",
+    "Description": "All lock devices are Stand Alone and are installed on various store rooms, mechanical rooms, telecom rooms, and some office areas; the devices are used to control access to Government and contract Employees, and occasional authorized personnel under contract with the government. The software randomly assigns 5 digit codes issued to the individual. The code can be set to expire on specific dates, and the user is only authorized access to spaces required. An audit trail is maintained with the lock device and is downloaded back to the primary work station via Palm device.",
+    "Category": "Building Automation",
+    "Status": "Approved - Preferred",
+    "Comments": "EARC approval link -- https://gsa.my.salesforce.com/0D53000001grHweFor more info about the request,https://docs.google.com/a/gsa.gov/document/d/1p37li0JE92NY9Gcm6agfEI_daRgBv221j9gXrgFQ-1Y/edit#"
+  },
+  {
+    "Standard Name": "Schneider Electric PowerLogic ION EEM 4",
+    "Description": "This is an Enterprise Energy Management software. The software is used for finding and correcting data gaps, spikes and zeroes in the ION/EEM system. We can check the regional servers versus the EEM system to know if data is making it from meter to regional servers to EEM for use by HQ and others. This is widely used at GSA as a standard software.",
+    "Category": "Building Automation",
+    "Status": "Approved - Preferred",
+    "Comments": "EARC recommend this software as an 'Approved-Preferred' software because of its enterprise-wide usage.For more details about the EARC approval click link below,https://gsa.my.salesforce.com/0D5t0000000SAdY"
+  },
+  {
+    "Standard Name": "Tridium Niagara 4",
+    "Description": "The Niagara Framework is a universal software infrastructure that allows building controls integrators and mechanical contractors to build custom, web-enabled applications for accessing, automating and controlling smart devices real-time via local network or over the Internet.RT#2016-87378RITM0268124",
+    "Category": "Building Automation",
+    "Status": "Approved - Preferred",
+    "Comments": "RT#2016-87378RITM0268124"
+  },
+  {
+    "Standard Name": "Tridium Niagara Framework AX 3",
+    "Description": "Niagara AX is an open, Java-based framework that can connect almost any embedded device or system regardless of manufacturer or communication protocol. It includes a comprehensive graphical toolset that lets you build rich applications in a drag-and-drop environment and easily manage your assets using a standard Web browser.",
+    "Category": "Building Automation",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Tridium Niagara Workbench AX",
+    "Description": "The Niagara Framework connects different components, operating systems and applications and allows devices and protocols to integrate into unified, smart systems. It allows integration and management of devices and systems on a secure, easy-to-use platform.",
+    "Category": "Building Automation",
+    "Status": "Approved - Preferred",
+    "Comments": "Please review Request Tracker ticket..."
+  },
+  {
+    "Standard Name": "Autodesk AutoCAD Utility Design 2016",
+    "Description": "AutoCAD Utility Design software combines design and documentation with rules-driven workflows and analysis for electrical distribution design. Improve design accuracy, analyze and optimize network designs for greater performance and reliability, and deliver more consistent and coordinated documentation.",
+    "Category": "Building Information Modeling",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Autodesk Navisworks Freedom 2016",
+    "Description": "Get the whole-project view using Navisworks solutions. Combine design data created in AutoCAD and Revit software-based products and other applications with models created by other design tools. Then, view these files with Navisworks Freedom software. NWD files viewed with Navisworks Freedom give stakeholders equal access to explore and experience whole projects.The Navisworks Freedom free download creates compressed, more secure, NWD format files. A practical solution to streaming large CAD models, NWD files require no model preparation, third-party server hosting, setup time, nor ongoing costs.",
+    "Category": "Building Information Modeling",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Autodesk Navisworks Manage 2017",
+    "Description": "Autodesk Navisworks project review software helps architecture, engineering, and construction professionals holistically review integrated models and data with stakeholders to gain better control over project outcomes. Integration, analysis, and communication tools help teams coordinate disciplines, resolve conflicts, and plan projects before construction or renovation begins.",
+    "Category": "Building Information Modeling",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Autodesk Navisworks Simulate 2017",
+    "Description": "Navisworks project review software enables architecture, engineering, and construction professionals to holistically review integrated models and data with stakeholders to gain better control over project outcomes. Integration, analysis, and communication tools help teams coordinate disciplines, resolve conflicts, and plan projects before construction or renovation begins.",
+    "Category": "Building Information Modeling",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Autodesk Revit 2017",
+    "Description": "Revit software for BIM (Building Information Modeling) includes features for architectural design, MEP and structural engineering, and construction.Starting with Revit 2017, Autodesk has combined all three components (MEP, Structure and Architecture) into one Revit.Its tools let you use the model-based process to plan, design, construct, and manage buildings and infrastructure. Revit supports a multidiscipline design process for collaborative design.",
+    "Category": "Building Information Modeling",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Autodesk Revit Architecture 2016",
+    "Description": "Autodesk Revit software is specifically built for Building Information Modeling (BIM), empowering design and construction professionals to bring ideas from concept to construction with a coordinated and consistent model-based approach. Autodesk Revit is a single application that includes features for architectural design, MEP and structural engineering, and construction.",
+    "Category": "Building Information Modeling",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Autodesk Revit Structure 2016",
+    "Description": "Autodesk Revit software is specifically built for Building Information Modeling (BIM), empowering design and construction professionals to bring ideas from concept to construction with a coordinated and consistent model-based approach. Autodesk Revit is a single application that includes features for architectural design, MEP and structural engineering, and construction.",
+    "Category": "Building Information Modeling",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "DOE Building Life Cycle Cost (BLCC) 5.3",
+    "Description": "BLCC conducts economic analyses by evaluating the relative cost effectiveness of alternative buildings and building-related systems or components. Typically, BLCC is used to evaluate alternative designs that have higher initial costs but lower operating costs over the project life than the lowest-initial-cost design. It is especially useful for evaluating the costs and benefits of energy and water conservation and renewable energy projects. BLCC version 5.3-16 contains the following modules:",
+    "Category": "Building Information Modeling",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Solibri Model Checker v9",
+    "Description": "Solibri Model Checker is the Quality Assurance solution for BIM validation, compliance control, design review, analysis and code checking.",
+    "Category": "Building Information Modeling",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "One Pager",
+    "Description": "One Pager is a presentation software solution that empowers project managers to turn project files and spreadsheets into summary graphics.",
+    "Category": "Business Process Management System",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "2020 Cap",
+    "Description": "Based on AutoCAD, 2020 Cap supports office space planning and furniture layout software for designing faster with less errors thanks to the automation of time-consuming tasks and the most up-to-date catalogs in the industry. With furniture layout software, you can create innovative spaces and provide accurate furniture specifications delivering precise, complete and on-time projects. 2020 Cap helps designers to work saving time and delivering projects quickly.",
+    "Category": "CAD-Computer-Aided Design",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Autodesk 3DS Max Design 2017",
+    "Description": "3ds Max Design software is a comprehensive 3D design, modeling, animation, and rendering solution for architects, designers, civil engineers, and visualization specialists. Evaluate and sell designs before they are built, with rapid iterations, accurate daylight analysis, and high-impact visuals and animations",
+    "Category": "CAD-Computer-Aided Design",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Autodesk AutoCAD 2017",
+    "Description": "AutoCAD is a commercial software application for 2D and 3D computer-aided design (CAD) and drafting",
+    "Category": "CAD-Computer-Aided Design",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Autodesk AutoCAD Architecture 2016",
+    "Description": "AutoCAD Architecture is a version of Autodesk's flagship product, AutoCAD, with tools and functions specially suited to architectural work.",
+    "Category": "CAD-Computer-Aided Design",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Autodesk AutoCAD Civil 3D 2017",
+    "Description": "AutoCAD Civil 3D provides an interface for composing and modifying complex subassemblies, without a need for programming. It is a civil design and documentation solution that supports Building Information Modeling (BIM) workflows.",
+    "Category": "CAD-Computer-Aided Design",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Autodesk AutoCAD Map 3D 2017",
+    "Description": "AutoCAD Map 3D software provides access to GIS and mapping data to support planning, design, and data management. Intelligent models and CAD tools help you to apply regional and discipline-specific standards. Integration of GIS data with your organization helps to improve quality, productivity, and asset management.",
+    "Category": "CAD-Computer-Aided Design",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Autodesk AutoCAD MEP 2016",
+    "Description": "AutoCAD MEP software helps you draft, design, and document building systems. Create more accurate designs within a familiar AutoCAD-based environment. Increase productivity and reduce errors with automated drafting tasks, manufacturers’ parts, and interference detection. Support mechanical, electrical, and plumbing (MEP) systems throughout the building lifecycle with reliable DWG files.",
+    "Category": "CAD-Computer-Aided Design",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Autodesk Design Review 2016",
+    "Description": "Autodesk Design Review is a free viewing application that enables all members of the project team to easily view, measure, markup and print designs shared electronically. Built around the DWF file format, Design Review enables users to view and print complex 2D and 3D drawings, maps, and models published from Autodesk design applications or from the DWF Writer.",
+    "Category": "CAD-Computer-Aided Design",
+    "Status": "Approved - Preferred",
+    "Comments": "Generally Available"
+  },
+  {
+    "Standard Name": "Autodesk Revit MEP 2016",
+    "Description": "Autodesk Revit software is specifically built for Building Information Modeling (BIM), empowering design and construction professionals to bring ideas from concept to construction with a coordinated and consistent model-based approach. Autodesk Revit is a single application that includes features for architectural design, MEP and structural engineering, and construction.",
+    "Category": "CAD-Computer-Aided Design",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "AutoScript for AutoCAD",
+    "Description": "Using AutoScript for AutoCAD a user can apply a set of commands to multiple drawings by specifying a script file and the list of drawings that you would like to apply the script to.",
+    "Category": "CAD-Computer-Aided Design",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "ProSTEP Server ES2",
+    "Description": "Convert your 3D CAD data into the universal 3D PDF format and use it for your processes: more easily, more quickly and more individually. PDF Generator 3D creates (without the use of a CAD system) a 3D PDF document from almost any CAD format in a fully automated, standardized and reliable manner; using the highest security standards.",
+    "Category": "CAD-Computer-Aided Design,PDF Software",
+    "Status": "Approved - Preferred",
+    "Comments": "For more details on the EARC approval click the link.https://gsa.my.salesforce.com/0D5t0000003HBiG"
+  },
+  {
+    "Standard Name": "Amazon AWS Elastic Block Store (EBS)",
+    "Description": "Amazon Elastic Block Store (Amazon EBS) provides persistent block level storage volumes for use with Amazon EC2 instances in the AWS Cloud. FedRAMP Approved - US East/West Regions, GovCloud",
+    "Category": "Cloud Based Dev Platform",
+    "Status": "Approved - Preferred",
+    "Comments": "ISE Tracking list of Amazon AWS products.https://docs.google.com/spreadsheets/d/1kJrPqu10x80LaGQ_oXFDuoPkBdnaXrXTQVF_uJ14-ok/edit#gid=0"
+  },
+  {
+    "Standard Name": "Amazon AWS Elastic Compute Cloud (EC2)",
+    "Description": "EC2 is a web service that provides resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. FedRAMP Approved - US East/West Regions, GovCloud",
+    "Category": "Cloud Based Dev Platform",
+    "Status": "Approved - Preferred",
+    "Comments": "ISE Tracking list of Amazon AWS products.https://docs.google.com/spreadsheets/d/1kJrPqu10x80LaGQ_oXFDuoPkBdnaXrXTQVF_uJ14-ok/edit#gid=0"
+  },
+  {
+    "Standard Name": "Amazon AWS Identity and Access Management (IAM)",
+    "Description": "AWS Identity and Access Management (IAM) enables you to securely control access to AWS services and resources for your user. With AWS IAM, you can create and manage users in AWS, and grant access to AWS resources for users managed outside of AWS in your corporate directory. FedRAMP Approved - US East/West Regions, GovCloud",
+    "Category": "Cloud Based Dev Platform",
+    "Status": "Approved - Preferred",
+    "Comments": "ISE Tracking list of Amazon AWS products.https://docs.google.com/spreadsheets/d/1kJrPqu10x80LaGQ_oXFDuoPkBdnaXrXTQVF_uJ14-ok/edit#gid=0"
+  },
+  {
+    "Standard Name": "Amazon AWS Redshift",
+    "Description": "Amazon Redshift is a fully managed, easily scalable petabyte-scale data warehouse service that works with your existing business intelligence tools. FedRAMP Approved - US East/West Regions",
+    "Category": "Cloud Based Dev Platform",
+    "Status": "Approved - Preferred",
+    "Comments": "ISE Tracking list of Amazon AWS products.https://docs.google.com/spreadsheets/d/1kJrPqu10x80LaGQ_oXFDuoPkBdnaXrXTQVF_uJ14-ok/edit#gid=0"
+  },
+  {
+    "Standard Name": "Amazon AWS Simple Storage Services (S3)",
+    "Description": "Amazon S3 provides a fully redundant data storage infrastructure for storing and retrieving any amount of data, at any time, from anywhere on the Web. FedRAMP Approved - US East/West Regions, GovCloud",
+    "Category": "Cloud Based Dev Platform",
+    "Status": "Approved - Preferred",
+    "Comments": "ISE Tracking list of Amazon AWS products.https://docs.google.com/spreadsheets/d/1kJrPqu10x80LaGQ_oXFDuoPkBdnaXrXTQVF_uJ14-ok/edit#gid=0"
+  },
+  {
+    "Standard Name": "Amazon AWS Virtual Private Cloud (VPC)",
+    "Description": "Amazon VPC lets you provision a private, isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define. With Amazon VPC, you can define a virtual network topology that closely resembles a traditional network that you might operate in your own datacenter. FedRAMP Approved - US East/West Regions, GovCloud",
+    "Category": "Cloud Based Dev Platform",
+    "Status": "Approved - Preferred",
+    "Comments": "ISE Tracking list of Amazon AWS products.https://docs.google.com/spreadsheets/d/1kJrPqu10x80LaGQ_oXFDuoPkBdnaXrXTQVF_uJ14-ok/edit#gid=0"
+  },
+  {
+    "Standard Name": "Chaosgroup V-ray",
+    "Description": "V-Ray is a commercial rendering plug-in for 3D computer graphics software applications.  V-Ray is a rendering engine that uses global illumination algorithms, including path tracing, photon mapping, irradiance maps and directly computed global illumination.",
+    "Category": "Collaboration Software",
+    "Status": "Approved - Preferred",
+    "Comments": "This is a plugin that works with CAD software."
+  },
+  {
+    "Standard Name": "GITHub",
+    "Description": "Online project hosting using Git. Includes source-code browser, in-line editing, wikis, and ticketing. Free for public open-source code.",
+    "Category": "Collaboration Software",
+    "Status": "Approved - Preferred",
+    "Comments": "It is partially 508 compliant. ATO is valid till 10/27/2017."
+  },
+  {
+    "Standard Name": "Google Apps Sync for Microsoft Outlook 3.8",
+    "Description": "Google Apps Sync for Microsoft Outlook (GASMO) allows you to use Microsoft Outlook 2003, 2007, 2010, 2013 and 2016 effectively with G Suite. You get the cost savings, security and reliability of G Suite, while employees can use the interface they prefer for email, contacts, calendar and notes.",
+    "Category": "Collaboration Software",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Google Calendar",
+    "Description": "Google's software-as-a-service solution for calendaring. This version is adapted/branded for GSA use and does not include the advertisements found on the free Google Calendar service.",
+    "Category": "Collaboration Software",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Google Groups",
+    "Description": "Google Groups allows you to create and participate in online forums and email-based groups with a rich experience for community conversations.",
+    "Category": "Collaboration Software",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Google Hangout",
+    "Description": "Google Hangouts bring conversations to life with photos, emoji, and even group video calls. Connects users across computers, Android and Apple devices.",
+    "Category": "Collaboration Software",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Livescribe Desktop 2.8",
+    "Description": "Livescribe Desktop helps you transfer your notes and recordings to your computer to play them back.",
+    "Category": "Collaboration Software",
+    "Status": "Approved - Preferred",
+    "Comments": "Generally Available"
+  },
+  {
+    "Standard Name": "Slack 2.0",
+    "Description": "Slack is a cloud-based team collaboration tool. Slack offers a lot of IRC-like features: persistent chat rooms (channels) organized by topic, as well as private groups and direct messaging.",
+    "Category": "Collaboration Software",
+    "Status": "Approved - Preferred",
+    "Comments": "The LiSaaS ATO is until Jun 2,2017.Update 12/19/2016: Per 508 Reviewer (Section.508@gsa.gov), \"We can approve this APP for use in GSA, but I recommend that the problems that I identified in the report be addressed.  I further recommend that if this APP will be used in offices with disabledemployees that they be provided specialized training on the use of both the Desktop and Mobil Version of the software.\"Navin's comments regarding 508 compliance: Based on the accessibility evaluation, the core functionality of Slack is accessible, but other aspects may not be. As such, this is approved for use with the caveat that 18F and CTO will seek alternate solutions such as a fully accessible chat client that can provide access to the Slack channels used in the GSA  to be implemented within the next 10 weeks."
+  },
+  {
+    "Standard Name": "Blackboard Collaborate Launcher",
+    "Description": "The Blackboard Collaborate Launcher is a utility for Windows and Mac. It provides a convenient and reliable way for you to launch your Blackboard Collaborate web conferencing sessions and recordings. When login to a live webinar or access a recorded webinar, Blackboard Collaborate checks to see if you have the launcher installed. If you do not, Blackboard Collaborate prompts you to download it. When the launcher is installed, clicking a session or recording link triggers the download of a .collab file. The launcher uses this file to launch Blackboard Collaborate using a known and stable version of Java. Because the launcher includes the required Java, you do not need to install and maintain the system version of Java.",
+    "Category": "Content Rendering",
+    "Status": "Approved - Preferred",
+    "Comments": "For the EARC approval click the link below.https://gsa.my.salesforce.com/0D5t000000357m2For more info on the software -- http://www.trainingmagnetwork.com/page/107?t=Blackboard+Launcher"
+  },
+  {
+    "Standard Name": "Salesforce CRM",
+    "Description": "Bring social intelligence to your sales process. Gain insights from popular social media sites—like Facebook, Twitter, LinkedIn, YouTube, and Klout—right within Salesforce to help you increase productivity. And get a complete picture of your customer with everything you need in one place—including account history, key contacts, customer communications, and internal account discussions.The Sales Cloud provides quick access to all critical account data, including key contacts, communication history, shared documents, partners in the account, and more. And get a complete picture of every contact, from social insights to campaign history to opportunities they're involved in. Get contacts and company profiles from the leading data sources, right inside the Sales Cloud. Connect with key decision makers faster, easily plan territories, and increase sales and marketing productivity with up-to-date, accurate data.",
+    "Category": "Customer Relationship Management",
+    "Status": "Approved - Preferred",
+    "Comments": "Generally Available"
+  },
+  {
+    "Standard Name": "IBM InfoSphere Information Analyzer Server 8",
+    "Description": "InfoSphere Information Analyzer helps understand data quickly by offering data quality assessment, flexible data rules design & analysis, & quality monitoring capabilities.",
+    "Category": "Data Quality",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Data Entry Test",
+    "Description": "GSA built Powerbuilder front end to a FAS business line application (Data Entry).",
+    "Category": "Database",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Dell SharePlex 8",
+    "Description": "As the golden alternative for database replication, SharePlex includes all the functionality you need to maintain uptime of your critical databases at half the cost of Oracle GoldenGate. You can easily ensure high availability, migrate data with zero organizational risk and integrate data in near real-time for reporting and insights. As the largest independent database replication solution on the market, SharePlex delivers industrial strength replication you can count on, backed by unrivaled, award-winning support.",
+    "Category": "Database",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Embarcadero DBArtisan Pro 9.2",
+    "Description": "Team-enabled database administration solution using integrated performance analytics and team sharing capabilities to maximize availability, performance, security and collaboration across multiple DBMSs.",
+    "Category": "Database",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "MongoDB Community Server 3.4",
+    "Description": "MongoDB is a free and open-source cross-platform document-oriented database program.",
+    "Category": "Database",
+    "Status": "Approved - Preferred",
+    "Comments": "'Approved-Preferred' product for multiple reasons -- open source and fully 508 compliant. Also another reason for 'Approved-Preferred' is recently CTO when approving the proprietary database MS SQL Server had made the recommendation that long term plans should be to transition to open source technology databases (PostGRES, MySQL etc)."
+  },
+  {
+    "Standard Name": "Oracle Database 11g",
+    "Description": "Oracle Database (commonly referred to as Oracle RDBMS or simply as Oracle) is an object-relational database management system produced and marketed by Oracle Corporation.",
+    "Category": "Database",
+    "Status": "Approved - Preferred",
+    "Comments": "End of Life in May 2017 (premiere level ends in Dec 2020)"
+  },
+  {
+    "Standard Name": "Oracle MySQL Community Edition 5.6",
+    "Description": "MySQL Community Edition is a freely downloadable version of the world's most popular open source database that is supported by an active community of open source developers and enthusiasts.",
+    "Category": "Database",
+    "Status": "Approved - Preferred",
+    "Comments": "EARC recommends this as an 'Exception' and not an enterprise standard.** - Changed to 'Approved-Preferred' based on CTO's advise that the path forward is open source databases. Also this is fully 508 compliant.EARC approval link -- https://gsa.my.salesforce.com/0D5t0000003eIp5"
+  },
+  {
+    "Standard Name": "Apache Hadoop HDFS 2.7",
+    "Description": "The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage. Rather than rely on hardware to deliver high-availability, the library itself is designed to detect and handle failures at the application layer, so delivering a highly-available service on top of a cluster of computers, each of which may be prone to failures.The project includes Hadoop Distributed File System (HDFS): A distributed file system that provides high-throughput access to application data.",
+    "Category": "Database Admin Tools",
+    "Status": "Approved - Preferred",
+    "Comments": "**10/27** -- Changed version number from 3 level to 2 level -- 2.7.3 to 2.7508 NOTE: Hadoop is a back end, distributed file system, there is no user interface."
+  },
+  {
+    "Standard Name": "Apache Spark 2.0",
+    "Description": "Apache Spark is an open source big data processing framework built around speed, ease of use, and sophisticated analytics. It was originally developed in 2009 in UC Berkeley's AMPLab, and open sourced in 2010 as an Apache project.",
+    "Category": "Database Admin Tools",
+    "Status": "Approved - Preferred",
+    "Comments": "CTO interested to hear about the implementation and its pluses & minuses in a few months. Requester to schedule a presentation in a couple months to talk about their progress and findings. (01/17)**10/27** -- Changed version number from 3 level to 2 level -- 2.0.1 to 2.0"
+  },
+  {
+    "Standard Name": "Dell Toad DBA Suite for Oracle 12",
+    "Description": "Toad DBA Suite for Oracle is a comprehensive set of Oracle DBA tools that enable you to become more proactive. These Oracle administration tools automate maintenance, ensure optimal performance, and mitigate the risk of change. The suite helps you resolve issues before they impact production. And, since routine tasks are automated, you’re assured of accuracy as never before. You can also greatly reduce the risks associated with performance bottlenecks, database vulnerability, patches, upgrades, and more.",
+    "Category": "Database Connectivity",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Dell Toad for Oracle Xpert 12",
+    "Description": "Toad for Oracle Xpert Edition provides you with all of Toad’s development, editing, debugging, and project management features, plus SQL Optimizer for Oracle. SQL Optimizer validates your database code to ensure the best-possible performance. It also enables you to proactively identify potential issues and optimize SQL automatically.With Toad for Oracle Xpert Edition, you can easily manage database changes, including configuration, upgrades, migrations, index creation, and more. It also lets you analyze and compare execution plans for multiple SQL statements in different database environments. This Oracle database tool helps you proactively identify SQL performance variations, perform SQL tuning and pinpoint potential performance degradation.",
+    "Category": "Database Connectivity",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Microsoft SQL Server Management Studio 2012",
+    "Description": "SQL Server Management Studio is a software application is used for configuring, managing, and administering all components within Microsoft SQL Server. The tool includes both script editors and graphical tools which work with objects and features of the server.",
+    "Category": "Database Connectivity",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Oracle Database Client 12.1",
+    "Description": "Oracle client is an interface to connect to the underlying database and query tables and download data.",
+    "Category": "Database Connectivity",
+    "Status": "Approved - Preferred",
+    "Comments": "GSA mandated Oracle databases to be upgraded from 11g to 12c. PBS Business Intelligence (BI) Oracle 12c database is scheduled to  go on line March 15, 2017. The 12c client version is needed to connect to the forthcoming 12c database. This needs to be addressed in order for various data analytics teams in regions and staff offices to be able to pull data from BI."
+  },
+  {
+    "Standard Name": "Oracle SQL Developer 3",
+    "Description": "Oracle SQL Developer is an Integrated development environment (IDE) for working with SQL in Oracle databases. Oracle Corporation provides this product free; it uses the Java Development Kit.",
+    "Category": "Database Connectivity",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Dell Toad for SAP Solutions 3.1",
+    "Description": "Use intuitive workflows and powerful automation to simplify SAP database development and administration. Diagnose and resolve database performance issues quickly and easily. Increase productivity while maximizing SAP database performance and availability. Predict the impact of change. Implement a fully automated approach to maximizing SQL performance. Gain support for SAP HANA - with deep functional expertise for developing HANA applications and managing HANA database objects and users.",
+    "Category": "Database Connectivity,Database Admin Tools,Modeling",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Angular 2",
+    "Description": "This is latest development framework for developing the next generation web applications.",
+    "Category": "Development Tool",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Gluster 3.8",
+    "Description": "Gluster 3.8, an open source software. It is a scalable network filesystem. Using common off-the-shelf hardware, you can create large, distributed storage solutions for media streaming, data analysis, and other data- and bandwidth-intensive tasks.",
+    "Category": "Development Tool",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Supervisor 3.3",
+    "Description": "Supervisor is a client/server system that allows its users to control a number of processes on UNIX-like operating systems.",
+    "Category": "Development Tool",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "JetBrains IntelliJ IDEA 2016.3",
+    "Description": "IntelliJ IDEA is a Java integrated development environment (IDE) for developing computer software. It is developed by JetBrains (formerly known as IntelliJ), and is available as an Apache 2 Licensed community edition, and in a proprietary commercial edition. Both can be used for commercial development.",
+    "Category": "Development Tool,IDE-Integrated Development Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Alfresco",
+    "Description": "Enterprise content management system for Microsoft Windows and Unix-like operating systems. Alfresco comes in three flavors: Alfresco Community Edition is free software, LGPL licensed open source and open standards.",
+    "Category": "Document Management",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Google Drive",
+    "Description": "Google Drive provides users with 30 GB of Google storage that can keep a variety of files including notes, pictures, designs, recordings, videos, and any other form of documents.",
+    "Category": "Document Management,Collaboration Software",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Em Software Xtags for Adobe 2017",
+    "Description": "Xtags is a text filter based on the XPress Tags language, but greatly enhanced, providing serious document-building power. Using Xtags, you import text files which it converts into fully formatted layouts, and you can export as well. Xtags does this by interpreting special formatting codes embedded in the text file, and we call this set of codes the Xtags language.",
+    "Category": "Electronic Publishing",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Google Sheets",
+    "Description": "Google Sheets is a web-based spreadsheet application that allows to store and organize different types of information, much like Microsoft Excel.",
+    "Category": "Electronic Publishing",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Microsoft Office Professional Plus 2010",
+    "Description": "Microsoft Office 2010 (also called Office 2010 and Office 14) is a version of the Microsoft Office productivity suite for Microsoft Windows. It is the successor to Microsoft Office 2007 and the predecessor to Microsoft Office 2013. Office 2010 includes extended file format support, user interface updates, and a changed user experience. A 64-bit version of Office 2010 is available, although not for Windows XP or Windows Server 2003.The Professional Edition includes Word 2010, Excel 2010, OneNote 2010, InfoPath Designer and Filler 2010, PowerPoint 2010, Publisher 2010, and Access 2010.",
+    "Category": "Electronic Publishing",
+    "Status": "Approved - Preferred",
+    "Comments": "Generally Available"
+  },
+  {
+    "Standard Name": "Microsoft Visio Standard 2010",
+    "Description": "Drawing and diagramming program for Windows that includes a variety of pre-drawn shapes and picture elements that can be dragged and dropped onto the illustration.",
+    "Category": "Electronic Publishing",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Adobe Flash Player 16",
+    "Description": "Flash media player for web animations and interactive content.",
+    "Category": "Electronic Publishing,Multimedia Content Management",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Aid4Mail eDiscovery 4.3",
+    "Description": "Easy-to-learn interface and context-sensitive help to make your job easier. Fast and reliable email processing engine and de-duping options that save time.  More than 40 mail client programs and mailbox formats supported.",
+    "Category": "Email Client",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Google Mail",
+    "Description": "An Email as a Service based on Google's Gmail. This version is adapted/branded for GSA use and does not include the advertisements found on the free Gmail service.",
+    "Category": "Email Client,Collaboration Software,Mobile",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Altova XMLSpy 2012",
+    "Description": "XMLSpy is an XML editor and integrated development environment (IDE) developed by Altova. XMLSpy allows developers to create XML-based and Web services applications using technologies such as XML, XBRL, XML Schema, XSLT, XPath, XQuery, WSDL and SOAP.",
+    "Category": "IDE-Integrated Development Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Ansible Tower 2.4",
+    "Description": "Ansible Tower helps scale IT automation, manage complex deployments and speed productivity. Centralize and control IT infrastructure with a visual dashboard, role-based access control, job scheduling and graphical inventory management.",
+    "Category": "IDE-Integrated Development Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Microsoft Visual Studio 2010 Tools for Office Runtime",
+    "Description": "The Visual Studio 2010 Tools for Office Runtime must be installed on each computer that runs solutions that are created by using the Microsoft Office developer.",
+    "Category": "IDE-Integrated Development Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Microsoft Visual Studio 2012 Professional",
+    "Description": "Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop console and graphical user interface applications along with Windows Forms or WPF applications, websites, web applications, and web services in both native code together with managed code for all platforms supported by Microsoft Windows, Windows Mobile, Windows CE, .NET Framework, .NET Compact Framework and Microsoft Silverlight.",
+    "Category": "IDE-Integrated Development Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "NetBeans.org NetBeans 8.1",
+    "Description": "NetBeans is an Integrated Development Environment (IDE) tool that lets you quickly and easily develop Java desktop, mobile, and web applications, as well as HTML5 applications with HTML, JavaScript, and CSS. The IDE also provides a great set of tools for PHP and C/C++ developers. It is free and open source and has a large community of users and developers around the world.",
+    "Category": "IDE-Integrated Development Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "CTO approved and recommends open source tools for IDEs."
+  },
+  {
+    "Standard Name": "SAP Sybase PowerBuilder 12",
+    "Description": "Popular application development system for Windows client/server environments. It supports various databases, including DB2 and Oracle, and is also packaged with the Watcom SQL database. PowerBuilder provides visual programming tools as well as a BASIC-li",
+    "Category": "IDE-Integrated Development Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "Approved as an 'Exception' because of 508 compliance. For 508 assistance, contact Section.508@gsa.gov in the Section 508 office"
+  },
+  {
+    "Standard Name": "Unisys ClearPath ePortal Developer 5",
+    "Description": "This is a plug-in to Visual Studio which enables modernization of several ClearPath MCP components.",
+    "Category": "IDE-Integrated Development Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "CloudLock",
+    "Description": "CloudLock is a Cloud Cybersecurity Platform that helps organizations securely leverage the cloud for apps they buy and build. CloudLock delivers security for any cloud application and platform, including IaaS, PaaS, and IDaaS (IDentity as a Service) and orchestrates security across your existing investments.",
+    "Category": "Identity and Access Management",
+    "Status": "Approved - Preferred",
+    "Comments": "The product was purchased and implemented in Sept of 2014 to address OIG audit findings relating to the improper sharing of documents in Google.Approved as a 'Preferred' standard because of enterprise-wide usage and no other alternatives."
+  },
+  {
+    "Standard Name": "Microsoft Windows 2008 Active Directory R2 6.1",
+    "Description": "Active Directory (AD) is a directory service that Microsoft developed for Windows domain networks and is included in most Windows Server operating systems as a set of processes and services.An AD domain controller authenticates and authorizes all users and computers in a Windows domain type network—assigning and enforcing security policies for all computers and installing or updating software.",
+    "Category": "Identity and Access Management",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Oracle Directory Server Enterprise Edition 11g",
+    "Description": "Oracle Directory Server Enterprise Edition (formerly SUN Directory Server Enterprise Edition) is the best known directory server with proven large deployments in carrier and enterprise environments. It is also the most supported directory by ISVs, so it is ideal for heterogeneous environments. ODSEE provides a core directory service with embedded database, directory proxy, Active Directory (AD) synchronization and a Web administration console.",
+    "Category": "Identity and Access Management",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Oracle Directory Services Manager 11g",
+    "Description": "Oracle Directory Service Manager (ODSM) is a tool to manage Oracle Internet Directory (OID) and Oracle Virtual Directory (OVD).",
+    "Category": "Identity and Access Management",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Oracle Identity Analytics 11g",
+    "Description": "Oracle Identity Analytics provides enterprises with the ability to define and manage roles and automate critical identity-based controls.",
+    "Category": "Identity and Access Management",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Oracle Identity Federation 11g",
+    "Description": "Oracle Identity Federation (OIF) is a complete, enterprise-level solution for secure identity information exchange between partners. OIF reduces account management for partner identities and lowers the cost of integrations through support of industry federation standards. Oracle Identity Federation protects existing IT investments by integrating with a wide variety of data stores, user directories, authentication providers and applications.",
+    "Category": "Identity and Access Management",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Oracle Identity Manager 11g",
+    "Description": "Oracle Identity Manager (OIM) enables enterprises to manage the entire user lifecycle across all enterprise resources both within and beyond a firewall. An Oracle identity management solution provides a mechanism for implementing the user management aspects of a corporate policy. It can also be a means to audit users and their access privileges",
+    "Category": "Identity and Access Management",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Oracle Internet Directory 11g",
+    "Description": "Oracle Internet Directory (OID) is a directory service produced by Oracle Corporation, which functions compatible with LDAP version 3.",
+    "Category": "Identity and Access Management",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Oracle Virtual Directory 11g",
+    "Description": "Oracle Virtual Directory provides Internet and industry-standard LDAP and XML views of existing enterprise identity information, without synchronizing or moving data from its native locations.",
+    "Category": "Identity and Access Management",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Quest Enterprise Single Sign On (QESSO 8.06)",
+    "Description": "Quest Enterprise SSO can access user information located in LDAP directories and use these directories to store SSO and security data. Enterprise Single Sign-on enables your organization to streamline both end-user management and enterprise-wide administration of single sign-on (SSO). It bases application and system user logins on your existing Active Directory identities, so there’s no infrastructure for you to manage.",
+    "Category": "Identity and Access Management",
+    "Status": "Approved - Preferred",
+    "Comments": "EARC approved this as a 'Approved-Preferred' standard. There are 2 products in the Dell Privileged Management System - QESSO (Quest Single Sign On 8.06) and TPAM (The Privileged Appliance and Modules 2.5)EARC approval link -- https://gsa.my.salesforce.com/0D5t0000004ijO9"
+  },
+  {
+    "Standard Name": "Softerra LDAP Browser 4.5",
+    "Description": "Softerra LDAP Browser is the industry-leading software for browsing and analyzing LDAP directories.",
+    "Category": "Identity and Access Management",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "The Privileged Appliance and Modules (TPAM) 2.5 (Dell Privileged Mgmt System)",
+    "Description": "TPAM automates, controls and secures the entire process of granting administrators the credentials necessary to perform their duties.",
+    "Category": "Identity and Access Management",
+    "Status": "Approved - Preferred",
+    "Comments": "EARC approved this as a 'Approved-Preferred' standard. There are 2 products in the Dell Privileged Management System - QESSO (Quest Single Sign On 8.06) and TPAM (The Privileged Appliance and Modules 2.5)EARC approval link -- https://gsa.my.salesforce.com/0D5t0000004ijO9"
+  },
+  {
+    "Standard Name": "Zetetic Codebook Password Manager 3.0 (for MAC)",
+    "Description": "Codebook guards users passwords and private data, helping to keep their digital life secure. Passwords, financial details, and other data ready without fear of prying eyes, device loss or theft.",
+    "Category": "Identity and Access Management",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Zetetic Codebook Password Manager 3.0 (for Windows)",
+    "Description": "Codebook guards users passwords and private data, helping to keep their digital life secure. Passwords, financial details, and other data ready without fear of prying eyes, device loss or theft",
+    "Category": "Identity and Access Management",
+    "Status": "Approved - Preferred",
+    "Comments": "The requirement for this software came from the great Ideas Hunt when users were requesting a software that could safely store password on their mobile devices and workstations instead of writing them on a piece of paper.The security team requirement was that the password database be kept on GSA servers or drives. There was a 16 character password limit on the software"
+  },
+  {
+    "Standard Name": "Adobe Photoshop CS4",
+    "Description": "CS4 features smoother panning and zooming, allowing faster image editing at a high magnification. The interface is more simplified with its tab-based interface making it cleaner to work with. Photoshop CS4 features a new 3D engine allowing the conversion of gradient maps to 3D objects, adding depth to layers and text, and getting print-quality output with the new ray-tracing rendering engine. It supports common 3D formats; the new Adjustment and Mask Panels; Content-aware scaling (seam carving); Fluid Canvas Rotation and File display options. The Content-aware scaling allows users to intelligently size and scale images, and the Canvas Rotation tool makes it easier to rotate and edit images from any angle.",
+    "Category": "Image Processing & Graphic Design",
+    "Status": "Approved - Preferred",
+    "Comments": "508 Reviewer Comments The nature of graphics software such as Photoshop, require commands and functions that are not usable with the keyboard alone. Users for this product should be instructed that graphic software of this type contain barriers for users of assistive technology."
+  },
+  {
+    "Standard Name": "Corel Paintshop Pro X8",
+    "Description": "Photo-editing and graphic design.. Accelerate your photo editing with enhanced layers, more precise selection tools, faster brushes and extensive productivity-boosting improvements. Bring ideas to life with the most versatile photo-editing software value anywhere—no monthly subscription required.",
+    "Category": "Image Processing & Graphic Design",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Microsoft Snapshot Viewer 10",
+    "Description": "Download and view .snp files that are no longer view-able with MS Access 2010.",
+    "Category": "Image Processing & Graphic Design",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Easy Feed Editor 3.5",
+    "Description": "Easy Feed Editor is a free tool to create and edit your own Feeds.",
+    "Category": "Information Exchange Standards",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "SSH Secure Shell 3.2",
+    "Description": "SSH provides a secure channel over an unsecured network in a client-server architecture, connecting an SSH client application with an SSH server. Common applications include remote command-line login and remote command execution, but any network service can be secured with SSH.",
+    "Category": "Information Exchange Standards",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "VanDyke VShell Server 4.2",
+    "Description": "The VShell Secure Shell server is a secure alternative to Telnet and FTP on Windows and UNIX platforms. Using the strong encryption, trusted authentication, and data integrity of SSH2, you can provide secure remote access, file transfer, and data tunneling services throughout your organization.",
+    "Category": "Information Exchange Standards",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Dell FogLight 5",
+    "Description": "Foglight, the application performance monitoring (APM) solution from Dell Software, allows you to:Ensure a positive end-user experience by eliminating downtime and resolving problems faster, Manage a high volume and pace of change, while reducing or eliminating risks associated with new application launches, mobile or cloud migrations and technology upgrades, Leverage a single lens for reporting on business functions across all IT silos, like report on status of key business initiatives, Maximize collaboration and accelerate incident management with a single version of the truth.",
+    "Category": "Infrastructure",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Red Hat CloudForms 4.0",
+    "Description": "CloudForms gives you choice and flexibility while providing a unified and consistent set of management capabilities across:Virtualization platforms like Red Hat Enterprise Virtualization, VMware vRealize, and Microsoft Hyper-V.Private cloud platforms based on OpenStack.Public cloud platforms like Amazon Web Services and Microsoft Azure.CloudForms can see and manage both the guest and host systems, allowing management of workloads and infrastructure within the same system.",
+    "Category": "Infrastructure",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Bit9 Agents for Windows, Linux, Mac",
+    "Description": "Bit9 agent installed on endpoints",
+    "Category": "Intrusion Detection and Prevention",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Bit9 Security Platform",
+    "Description": "Policy-driven application control and whitelisting solution",
+    "Category": "Intrusion Detection and Prevention",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "OSSEC HIDS 2.8",
+    "Description": "OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.",
+    "Category": "Intrusion Detection and Prevention",
+    "Status": "Approved - Preferred",
+    "Comments": "CTO recommends that user discuss with the cloud.gov team. They tried this tool and found that it is resource intensive - they may have some insight."
+  },
+  {
+    "Standard Name": "Tripwire Enterprise",
+    "Description": "File Integrity Monitor",
+    "Category": "Intrusion Detection and Prevention",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Tripwire Enterprise Linux Agent",
+    "Description": "File Integrity Monitor Agent installed on host",
+    "Category": "Intrusion Detection and Prevention",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Tripwire Enterprise Solaris agent",
+    "Description": "File Integrity Monitor Agent installed on host",
+    "Category": "Intrusion Detection and Prevention",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Tripwire Enterprise Windows agent",
+    "Description": "File Integrity Monitor Agent installed on host",
+    "Category": "Intrusion Detection and Prevention",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "HP Unified Functional Testing (UFT) 12.02",
+    "Description": "HP UFT software automates testing through an intuitive, visual user experience that ties manual, automated, and framework-based testing together in one IDE.",
+    "Category": "IT Testing and Analysis",
+    "Status": "Approved - Preferred",
+    "Comments": "Please click the link for the EARC approval.https://gsa.my.salesforce.com/0D5300000266zwQ"
+  },
+  {
+    "Standard Name": "Agilquest OnBoard Navigator 5",
+    "Description": "The OnBoard Workplace Management System is workplace expertise codified into business software to seat more people into fewer desks and to maximize the utilization of meeting rooms and video conference resources. OnBoard is the automated system, workflow and business rules which give today's mobile worker a guaranteed place to work when they are in the office and support the visibility and control managers need to reach performance goals.OnBoard delivers hoteling for shared desks, room booking and catering for conference rooms, and provides the centralized robust reservation management and operational data.",
+    "Category": "Miscellaneous Software",
+    "Status": "Approved - Preferred",
+    "Comments": "This is administration software for GSA's BookIt! system.  This software should not be needed by those not administering BookIt!"
+  },
+  {
+    "Standard Name": "BIND V 9.11 (Berkeley Internet Name Domain)",
+    "Description": "BIND is transparent open source that enables you to publish your Domain Name System (DNS) information on the Internet, and to resolve DNS queries for your users.",
+    "Category": "Miscellaneous Software",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "CheckSum Tool 0.7",
+    "Description": "CheckSum Tool is an utility program for calculating and verifying checksums for files. The tool is in development and new features will be added frequently in new releases. CheckSum Tool is open source software. It is licenced under MIT Licence. The MIT Licence allows everybody to download the sources, modify sources, compile and distribute them. However licence text must be always distributed with the software.",
+    "Category": "Miscellaneous Software",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Dep of Treasury SPS-Secure Payment System 2015",
+    "Description": "Secure Payment System (SPS) is an application that provides a mechanism by which government agencies can create payment schedules in a secure fashion, and with a strictly enforced separation of duties. This application allows personnel at Federal Program Agency (FPA) locations to submit schedules to FMS over a browser/web interface. Two different user-types are required and responsible for an FPA to submit schedules to SPS. First, a Data Entry Operator (DEO) creates a schedule and submits the schedule for certification. Next a Certifying Officer (CO) examines the schedule and upon verification, certifies the schedule which results in the schedule being submitted to FMS.",
+    "Category": "Miscellaneous Software",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Drivers (Printers, Mouse, Headset, Keyboard etc)",
+    "Description": "A driver provides a software interface to hardware devices, enabling operating systems and other computer programs to access hardware functions without needing to know precise details of the hardware being used.",
+    "Category": "Miscellaneous Software",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "ETAP",
+    "Description": "ETAP offers a suite of fully integrated electrical engineering software solutions including arc flash, load flow, short circuit, transient stability, relay coordination, cable ampacity, optimal power flow, and more. Its modular functionality can be customized to fit the needs of any company, from small to large power systems.",
+    "Category": "Miscellaneous Software",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Inquire add-in for Excel",
+    "Description": "Compare versions of a workbook, analyze a workbook for problems or inconsistencies, or see links between workbooks or worksheets. If Microsoft Office 365 or Office Professional Plus 2013 is installed on your computer, the Spreadsheet Inquire add-in is available in Excel.",
+    "Category": "Miscellaneous Software",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Microsoft Power Pivot Add-in for EXCEL",
+    "Description": "SQL Server PowerPivot for Excel is an add-in to Excel 2010 that you can download from the Web and use to create or view a PowerPivot workbook.",
+    "Category": "Miscellaneous Software",
+    "Status": "Approved - Preferred",
+    "Comments": "This add-in only needed a security review and it passed."
+  },
+  {
+    "Standard Name": "PowerDNS 4.0",
+    "Description": "Our software provides: Authoritative ('hosting') DNS, Resolving ('caching') DNS, Debugging tools, In recent versions: an API to provision zones and records, In near future versions: a simple web based management & provisioning interface. PowerDNS serves DNS data as stored in plain text files, or in third party databases such as MySQL, PostgreSQL, Microsoft SQL Server, Oracle or Sybase.",
+    "Category": "Miscellaneous Software",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "wzcline40-64 add on",
+    "Description": "WinZip Command Line Support Add-On 4.0 (64 bit)",
+    "Category": "Miscellaneous Software",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Google Apps Lookup Mobile App",
+    "Description": "Google Apps Lookup is an Android application that functions like a phonebook and email directory for your organization. Use the app to find contact information for people in your Google Apps domain, and add people to your contact list. The app is an easy, convenient way for you to find your colleagues' contact info on the go.",
+    "Category": "Mobile",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Cisco AnyConnect Windows Client 3.1",
+    "Description": "Make the VPN experience easier and more secure with the enhanced remote access technology of Cisco AnyConnect Secure Mobility Client. This software builds on prior Cisco AnyConnect VPN Client offerings to improve the always-on VPN experience across more laptop and smartphone-based mobile devices, including laptops using Microsoft Windows 7. This client now universally supports IPv6.",
+    "Category": "Mobility Technology Services",
+    "Status": "Approved - Preferred",
+    "Comments": "No documentation exists for approval."
+  },
+  {
+    "Standard Name": "Jamsoftware Casper Suite Agent 9.96",
+    "Description": "Casper Suite Software is a server-client software package approved for use here at GSA to manage Mac Endpoints throughout the enterprise. This software was the finalist in our evaluation of other solutions.",
+    "Category": "Mobility Technology Services",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "DoE eQuest 3.65",
+    "Description": "DOE-2 is a widely used and accepted freeware building energy analysis program that can predict the energy use and cost for all types of buildings. DOE-2 uses a description of the building layout, constructions, usage, conditioning systems (lighting, HVAC, etc.) and utility rates provided by the user, along with weather data, to perform an hourly simulation of the building and to estimate utility bills.",
+    "Category": "Modeling",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "IBM Rational System Architect 11.4",
+    "Description": "IBM Rational System Architect is an enterprise architecture solution for visualizing, analyzing, and communicating enterprise architecture and business process analysis.",
+    "Category": "Modeling",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "IBM Rational System Architect eXtended Team 11",
+    "Description": "Web-based client for viewing and editing the IBM Rational System Architect repository. Can be accessed at ea.gsa.gov/saxt",
+    "Category": "Modeling",
+    "Status": "Approved - Preferred",
+    "Comments": "Generally Available"
+  },
+  {
+    "Standard Name": "Articulate Storyline 3",
+    "Description": "Articulate Storyline provides a very intuitive and easy to use interface for e-learning course authoring and it is a very smooth eLearning development tool. It is used by skilled course designers and also regular subject matter experts. Because of intuitive interface it is possible to quickly get trained on Articulate Storyline and become productive.",
+    "Category": "Multimedia Content Management",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Microsoft Silverlight 5",
+    "Description": "Silverlight is a powerful development tool for creating engaging, interactive user experiences for Web and mobile applications. Silverlight is a free plug-in, powered by the .NET framework and compatible with multiple browsers, devices and operating systems, bringing a new level of interactivity wherever the Web works.",
+    "Category": "Multimedia Content Management",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Microsoft Windows Media Player 12",
+    "Description": "Windows Media Player (WMP) is a software application from Microsoft used to play, store and organize digital audio, images and video.",
+    "Category": "Multimedia Content Management",
+    "Status": "Approved - Preferred",
+    "Comments": "End of Life"
+  },
+  {
+    "Standard Name": "Techsmith Camtasia Studio 8",
+    "Description": "Camtasia Studio is a software suite, created and published by TechSmith, for creating video tutorials and presentations directly via screencast, or via a direct recording plug-in to Microsoft PowerPoint. The screen area to be recorded can be chosen freely, and audio or other multimedia recordings may be recorded at the same time or added separately from any other source and integrated in the Camtasia Studio component of the product.",
+    "Category": "Multimedia Content Management",
+    "Status": "Approved - Preferred",
+    "Comments": ""
+  },
+  {
+    "Standard Name": "VideoLAN VLC Player 2.2",
+    "Description": "VLC media player (commonly known as VLC) is a portable, free and open-source, cross-platform media player and streaming media server written by the VideoLAN project.",
+    "Category": "Multimedia Content Management",
+    "Status": "Approved - Preferred",
+    "Comments": "Click the link for the EARC approvalhttps://gsa.my.salesforce.com/0D530000024uWUe"
+  },
+  {
+    "Standard Name": "BlueCat DDI suite",
+    "Description": "DNS, DHCP and DNS manager including DNSSEC",
+    "Category": "Network Monitoring",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Cisco Prime Collaboration Assurance 10",
+    "Description": "Cisco Prime Collaboration is a comprehensive video and voice service assurance and management system with a set of monitoring, troubleshooting, and reporting capabilities that help ensure end users receive a consistent, high-quality video and voice collaboration experience.",
+    "Category": "Network Monitoring",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Snare Enterprise Agent 4.3",
+    "Description": "Snare (sometimes also written as SNARE, an acronym for System iNtrusion Analysis and Reporting Environment) is a collection of software tools that collect audit log data from a variety of operating systems and applications to facilitate centralised log analysis. Enterprise Agents are available for Linux, OSX, Windows, Solaris, Microsoft SQL Server, a variety of browsers, and more. Snare Enterprise Epilog for Windows facilitates the central collection and processing of Windows text-based log files such as ISA/IIS. Snare Enterprise Epilog for Unix provides a method to collect any text based log files on the Linux and Solaris operating systems. Opensource Agents are available for Irix and AIX.",
+    "Category": "Network Monitoring",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Snare MSSQL Agent 1.4",
+    "Description": "The Snare Enterprise Agent for MSSQL agent can track and monitor all database administrative activity from Microsoft SQL Server 2005, 2008, 2012, 2014 (and 2016 coming soon) and securely send the log information to a remote Snare Server, SIEM system, syslog server or a local log file for analysis and reporting.",
+    "Category": "Network Monitoring",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Snare Server 7.1",
+    "Description": "The Snare Server is a Security Information and Event Management Solution (SIEM), developed in the security labs of the defense industry, that provides robust audit event collection, analysis, reporting and archival capabilities of IT security log data. It can collect from a variety of operating systems, services and applications and can receive event log data directly from Snare Enterprise Agents, Snare Epilog files (ascii text log file), syslog network devices such as routers, switches, firewalls and authentication servers.",
+    "Category": "Network Monitoring",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Squid",
+    "Description": "Proxy for Servers (Patchproxy)",
+    "Category": "Network Monitoring",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Zen Load Balancer",
+    "Description": "Load Balancer for Patch Proxy and DNS servers",
+    "Category": "Network Monitoring",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Cisco Prime License Manager 10",
+    "Description": "Cisco Prime License Manager provides simplified, enterprise-wide management of user-based licensing, including license fulfillment. Cisco Prime License Manager handles licensing fulfillment, supports allocation and reconciliation of licenses across supported products, and provides enterprise-level reporting of usage and entitlement.Cisco Prime License Manager (Prime LM, formerly Cisco Enterprise License Manager) aligns with the Cisco Prime management suite of products. Cisco Prime LM offers new features and capabilities and adds support for Cisco Emergency Responder. Cisco Prime LM also supports multiple clusters and multiple versions of products, such as Cisco Unified CM versions 9. x and 10. x .",
+    "Category": "Network Monitoring,Network Devices/Standards",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Microsoft Windows Server 2012 R2",
+    "Description": "Windows Server 2012 has no support for Itanium-based computers, and has four editions. Various features were added or improved over Windows Server 2008 R2 (with many placing an emphasis on cloud computing), such as an updated version of Hyper-V, an IP address management role, a new version of Windows Task Manager, and ReFS, a new file system. Windows Server 2012 received generally good reviews in spite of having included the same controversial Metro-based user interface seen in Windows 8.",
+    "Category": "Network Operating System",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Red Hat Enterprise Linux 7.1",
+    "Description": "Red Hat Enterprise Linux (RHEL) is a Linux distribution developed by Red Hat and targeted toward the commercial market. Red Hat Enterprise Linux is released in server versions for x86, x86-64, Itanium, PowerPC and IBM System z, and desktop versions for x86 and x86-64. All of the Red Hat's official support and training, together with the Red Hat Certification Program, focuses on the Red Hat Enterprise Linux platform. Red Hat Enterprise Linux is often abbreviated to RHEL, although this is not an official designation",
+    "Category": "Network Operating System",
+    "Status": "Approved - Preferred",
+    "Comments": "EARC recommends this as a 'Preferred' standard since more and more servers will be migrated to this platform."
+  },
+  {
+    "Standard Name": "SUSE Linux Enterprise Server (SLES) 11",
+    "Description": "SUSE Linux Enterprise Server (SLES) is a Linux-based operating system developed by SUSE. It is designed for servers, mainframes, and workstations but can be installed on desktop computers for testing as well. Major versions are released at an interval of 3-4 years, while minor versions (called \"Service Packs\") are released about every 18 months. SUSE Linux Enterprise products, including SUSE Linux Enterprise Server, receive more intense testing than the openSUSE community product, with the intention that only mature, stable versions of the included components will make it through to the released enterprise product.",
+    "Category": "Network Operating System",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Cisco Prime Provisioning 10",
+    "Description": "Accelerates consistent and reliable service deployments by providing automated resource management and rapid profile-based provisioning. It helps provide rapid provisioning of services across the entire network, including the core, aggregation, access, and edge.",
+    "Category": "Network Operating System,Network Monitoring",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Apple Mac OS 10.11",
+    "Description": "OS X El Capitan (version 10.11) is the twelfth major release of OS X, Apple Inc.'s desktop and server operating system for Macintosh computers. It is the successor to OS X Yosemite and focuses mainly on performance, stability and security.",
+    "Category": "Operating System",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Microsoft Windows 10",
+    "Description": "Operating systems for personal computers. Windows provides a graphical user interface (GUI), virtual memory management, multitasking, and support for many peripheral devices.",
+    "Category": "Operating System",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Adobe Acrobat Professional 11",
+    "Description": "Adobe Acrobat is a family of application software developed by Adobe Systems to view, create, manipulate, print and manage files in Portable Document Format (PDF).",
+    "Category": "PDF Software",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "NetCentric Technologies CommonLook Office 1",
+    "Description": "A companion to the core Microsoft Office writing tools, CommonLook Office makes it easy for any user to create accessible, Section 508 compliant PDF documents directly from Microsoft Word or PowerPoint 2007 or 2010.",
+    "Category": "PDF Software",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "NetIQ DRA 9.0",
+    "Description": "NetIQ Directory and Resource Administrator (DRA) delivers an ability to control who can manage what within Active Directory while protecting the consistency and integrity of its information by validating all administrative changes. Through granular delegation of permissions, robust change management policies, and automation that simplifies workflows, DRA reduces down time and operational risks to Active Directory that are posed by the consequences of malicious or accidental changes.",
+    "Category": "PDF Software",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Liferay CE Portal 7.0",
+    "Description": "Liferay Portal is a free and open source enterprise portal software product.It is primarily used to power corporate intranets and extranets. Written in Java, Liferay Portal is a web platform with features commonly required for the development of websites and portals. Liferay includes a built-in web content management system allowing users to build websites and portals as an assembly of themes, pages, portlets/gadgets and a common navigation. Liferay can be described as a content management framework or a web application framework. Liferay's support for plugins extends into multiple programming languages, including support for PHP and Ruby portlets.",
+    "Category": "Portal Content Management",
+    "Status": "Approved - Preferred",
+    "Comments": "There are 8 applications associated to Oracle Portal 11G, they are all PBS. Here is a link to the report from GEAR, https://ea.gsa.gov/EAWEB/#!/itstandards/Oracle%20Portal%2011g. The plan is to move all of these applications over to the Liferay Portal platform. Their tentative goal is have it all transitioned by the end of the calendar year 2017, however, we have to take into account the datacenter move from Chantilly to Durham that will affect all these applications."
+  },
+  {
+    "Standard Name": "Ephox EditLive 9",
+    "Description": "WYSIWYG editor embedded in the content management systems for GSA.gov and InSite. Ephox EditLive! is the only editor with Section 508 accessibility standards assistance and checking. With Ephox EditLive! authors address accessibility compliance issues before their content is published. The accessibility check as-you-type makes it easy for authors to fix images that are missing alternative text, inaccessible tables and other accessibility-related issues in their content and fix them with the assistance of Ephox EditLive! . The Ephox EditLive!'s interface itself is accessible, compliant and compatible with assistive technologies, including popular screen readers such as JAWS.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Microsoft SqlXml 4.0 Service Pack 1 (SP1)",
+    "Description": "SQLXML enables XML support for your SQL Server Database. It allows developers to bridge the gap between XML and relational data. You can create XML View of your existing relational data and work with it as if it was an XML file.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "On advice from Client Engineering this software only needed a Security scan before it was approved. The RISSO conducted a Security scan and approved it."
+  },
+  {
+    "Standard Name": "Microsoft Windows Powershell 2",
+    "Description": "PowerShell is an automation platform and scripting language for Windows and Windows Server that allows you to simplify the management of your systems. Unlike other text-based shells, PowerShell harnesses the power of the .NET Framework, providing rich objects and a massive set of built-in functionality for taking control of your Windows environments.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "Generally Available"
+  },
+  {
+    "Standard Name": "Node.js ExpressJs 4.X",
+    "Description": "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. Express provides many tools for developing and securing a javascript based web server.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Nodejs.org Node.js 7.5",
+    "Description": "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Oracle Tuxedo 11g",
+    "Description": "Transactions Under UNIX Extended for Distributed Operations, a transaction processing monitor in the UNIX client/server environment.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "Generally Available"
+  },
+  {
+    "Standard Name": "Red Hat JBoss EAP v7",
+    "Description": "JBoss is an open source middleware Java EE-based application server runtime platform used for building, deploying, and hosting highly transactional Java applications and service",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP Admin Center",
+    "Description": "ClearPath MCP Developer Studio - The MCP Developer Studio software bundle is an indispensable collection of the software products needed to develop and test MCP-based applications. It includes all of the software that is part of the Software Developer’s Kit (SDK) operating environment package plus many additional products that further enrich its functionality",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP CD Library",
+    "Description": "CD-ROM Formatter enables you to copy MCP files to optical media using a drive that is directly attached to an MCP server. As a result, you can take advantage of media that is compact, inexpensive, and widely used for data storage and exchange.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP DB Center",
+    "Description": "Open Database Connectivity (ODBC) driver that enables Windows and Linux applications to access relational databases, along with a stored-procedure capability that enables users to store business logic in the database so that it can be shared by several applications.The relational product complements the Unisys DMSII Enterprise Database Server, which accommodates a variety of data models, including hierarchical, network, flat and relational.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP DMSQL Utilities",
+    "Description": "A relational database system built on top of DMSII , a SQL engine for existing DMSII databases, entirely MCP-based and DMSII-oriented, no separate Windows-based processor and accessible directly from MCP applications and from external systems over TCP/IP",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP Eclipse all in one",
+    "Description": "The Eclipse platform is one of the most useful integrated development tools available to a developer. Its built-in functionality is generic, open, and extensible by plug-ins. With the appropriate plug-ins, it can be used to develop applications in Java and many other programming languages. Plug-ins are available that support development activities including design, development, debug, and deployment of simple and multitier applications. Refer to www.eclipse.org/platform/ for more information.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP File Copier",
+    "Description": "This feature is a GUI to the features available in the MCPCOPY.EXE command line utility. These features include a variety of data conversion options between record and stream-oriented files. The options are a superset of the ones available through the Explorer Extensions right-click drag and drop capability.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP Info",
+    "Description": "You can control the host trace option for the current project from within WSUtility via the Tracing menu. You can retrieve the current project’s tracing status from the host, and enable/disable tracing for the current project from this menu. Trace information is written to the Web Services log file (called WEBSERVICES/LOG). A project must be open, and a host name and port number specified, for the functions on the Tracing menu to work",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP JDBC for MCP",
+    "Description": "JDBC for ClearPath MCP provides access to business-critical data stored in the highly robust and scalable Enterprise Database Server from Java applications running on ClearPath MCP, Microsoft Windows, Linux, or UNIX systems.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP JRAC",
+    "Description": "You can control the host trace option for the current project from within WSUtility via the Tracing menu. You can retrieve the current project’s tracing status from the host, and enable/disable tracing for the current project from this menu. Trace information is written to the Web Services log file (called WEBSERVICES/LOG). A project must be open, and a hostname and port number specified, for the functions on the Tracing menu to work",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP License Center",
+    "Description": "License Center provides an interface for viewing information about software licenses and processing power on MCP servers. License Center retrieves all license information from the license support library through MCPInfo and MCPServer. No other existing tool or interface provides access to all these different types of licenses from one centralized point. License Center helps you to understand exactly which software licenses you have and which ones you might need.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP Logon Agent",
+    "Description": "Client Access Services supports the MCP Logon Agent, which you can use from the Windows server environment to specify access code and charge code information.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP MGS WSUtility",
+    "Description": "You can control the host trace option for the current project from within WSUtility via the Tracing menu. You can retrieve the current project’s tracing status from the host, and enable/disable tracing for the current project from this menu. Trace information is written to the Web Services log file (called WEBSERVICES/LOG). A project must be open, and a hostname and port number specified, for the functions on the Tracing menu to work",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP MQMCP",
+    "Description": "ClearPath MCP systems includes safeguards to protect the mission critical data that numerous clients have placed on these platforms. These systems contain detailed auditing mechanisms, robust authentication options, authorization controls, system and user policy management, run time memory access controls, and easy configurability as well as other key features.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP NXExtend",
+    "Description": "This feature is a plug-in for Windows Explorer, which is available on the MCP Installs share.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP OP Center",
+    "Description": "This product enables you to monitor and maintain databases created with Enterprise Database Server for ClearPath MCP.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP Print Center",
+    "Description": "Print Center provides an easy-to-use Microsoft Windows-based user interface to the MCP Print System (PS). Both privileged and non-privileged users can use this interface. System administrators and operators can monitor and control all aspects of the Print System, while non-privileged users can work with their own print requests, devices, and other resources.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP Programmers Workbench",
+    "Description": "Programmer’s Workbench is primarily a workstation tool that is used to edit and manage MCP files. MCP files have records of specific lengths, depending on the file type, and parts of each record are reserved for a sequence number and mark ID field.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "Version 54"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP Security Center",
+    "Description": "Security Center enables security administrators to define, document, and apply a corporate security policy to an MCP ClearPath server.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP SQL Utilities",
+    "Description": "The Eclipse platform is one of the most useful integrated development tools available to a developer. Its built-in functionality is generic, open, and extensible by plug-ins. With the appropriate plug-ins, it can be used to develop applications in Java and many other programming languages. Plug-ins are available that support development activities including design, development, debug, and deployment of simple and multitier applications. Refer to www.eclipse.org/platform/ for more information.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP Transaction Center",
+    "Description": "Transaction Center enables you to easily and quickly configure and control the Transaction Server from a Windows workstation. The Transaction Center interface is consistent with the other centers used by ClearPath MCP servers.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP Web Enabler 4",
+    "Description": "Web Enabler for ClearPath MCP is a Java-based, cross-platform, Web enabling application. It enables users of ClearPath MCP systems to easily access MCP server applications over an Internet/intranet using a Java-capable Web browser, such as Netscape Communicator or Microsoft Internet Explorer.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "Contractually supplied item. TOS approva\" see servicenow"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP Workload Center",
+    "Description": "Workload Center is the interface to Workload Manager. This interface provides a centralized location from which you can simultaneously administer, control, and monitor workload configurations on qualified ClearPath MCP servers connected to the network.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Unisys ClearPath MCP XLATEEBCDIC",
+    "Description": "XLATE is a macro used to convert the data in an area in virtual storage from ASCII code to EBCDIC code or from EBCDIC code to ASCII code.",
+    "Category": "Programming Environment",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Oracle Java SE JDK 8",
+    "Description": "The Java Development Kit (JDK) is an implementation of either one of the Java SE, Java EE or Java ME platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris, Linux, Mac OS X or Windows. The JDK includes a private JVM and a few other resources to finish the development of a Java Application. Since the introduction of the Java platform, it has been by far the most widely used Software Development Kit (SDK).",
+    "Category": "Programming Environment,Programming Language",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Continuum Analytics Anaconda 3.4",
+    "Description": "Anaconda is used for coding with the Python language. It brings together over 270 packages for data analysis and has the ability to switch between the 2.7 language and the 3.4 beta version. Often times it gets compared to R as far as its capabilities. Just like R, I plan to use it for data analysis. It can be used for manipulation of databases, but excels over R in its ability to deal with larger data sets easily. Anaconda will also be used for other tasks such as streamlining communication with APIs and performing text mining analysis.",
+    "Category": "Programming Language",
+    "Status": "Approved - Preferred",
+    "Comments": "Approved only for installation on Servers.Denied for Desktop installations based on Security findings.The Anaconda software installs on a user profile, contrary to GSA IT policy due to bypass of admin controls."
+  },
+  {
+    "Standard Name": "Continuum Analytics Anaconda 4.3",
+    "Description": "Anaconda is a open source distribution of the Python and R programming languages for large-scale data processing, predictive analytics, and scientific computing, that aims to simplify package management and deployment.",
+    "Category": "Programming Language",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Drupal 7",
+    "Description": "Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License. Systems also use Drupal for knowledge management and for business collaboration. The standard release of Drupal, known as Drupal core, contains basic features common to content-management systems. These include user account registration and maintenance, menu management, RSS feeds, taxonomy, page layout customization, and system administration. The Drupal core installation can serve as a simple Web site, a single- or multi-user blog, an Internet forum, or a community Web site providing for user-generated content. Drupal also describes itself as a Web application framework, as it meets the generally accepted feature requirements for such frameworks. Drupal runs on any computing platform that supports both a Web server capable of running PHP and a database to store content and configuration.",
+    "Category": "Programming Language",
+    "Status": "Approved - Preferred",
+    "Comments": "FAS application is still running Drupal 7 and the developers will require Drupal 7. Once Drupal 8 is more stable and widely adopted, they will begin planning their migration."
+  },
+  {
+    "Standard Name": "Google AngularJS 1.5",
+    "Description": "AngularJS is a JavaScript framework. It can be added to an HTML page with a script tag.AngularJS extends HTML attributes with Directives, and binds data to HTML with Expressions.AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. Angular's data binding and dependency injection eliminate much of the code you would otherwise have to write. And it all happens within the browser, making it an ideal partner with any server technology.",
+    "Category": "Programming Language",
+    "Status": "Approved - Preferred",
+    "Comments": "Version 1.5 and 1.6 are the 'Approved-Preferred' standards."
+  },
+  {
+    "Standard Name": "Google AngularJS 1.6",
+    "Description": "AngularJS is a JavaScript framework. It can be added to an HTML page with a script tag.AngularJS extends HTML attributes with Directives, and binds data to HTML with Expressions.AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. Angular's data binding and dependency injection eliminate much of the code you would otherwise have to write. And it all happens within the browser, making it an ideal partner with any server technology.",
+    "Category": "Programming Language",
+    "Status": "Approved - Preferred",
+    "Comments": "Version 1.5 and 1.6 are the 'Approved-Preferred' standards."
+  },
+  {
+    "Standard Name": "Oracle Java Enterprise Edition 8",
+    "Description": "Java Platform, Enterprise Edition (Java EE) is the standard in community-driven enterprise software. Java EE is developed using the Java Community Process, with contributions from industry experts, commercial and open source organizations, Java User Groups, and countless individuals. Each release integrates new features that align with industry needs, improves application portability, and increases developer productivity.Today, Java EE offers a rich enterprise software platform, and with over 20 compliant Java EE 6 implementations to choose from, low risk and plenty of options.",
+    "Category": "Programming Language",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Atlassian JIRA 7.2",
+    "Description": "JIRA Software is the project management tool for agile teams. JIRA is a proprietary issue tracking product, developed by Atlassian. It provides bug tracking, issue tracking, and project management functions. It has been developed since 2002.",
+    "Category": "Project Management Tools",
+    "Status": "Approved - Preferred",
+    "Comments": "Due to no other known products that provide this capability being 508 compliant, this is being marked as approved-preferred.Also recommended that IP and IC coordinate on the licenses."
+  },
+  {
+    "Standard Name": "Smartsheet",
+    "Description": "Smartsheet is an online project management, productivity and team collaboration software as a service application based in Bellevue, Washington. Its online project management tool works like a familiar spreadsheet, but with additional functionality including cloud-capabilities for sharing, attachments, integration with file storage services and Gantt charts.",
+    "Category": "Project Management Tools",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Trello",
+    "Description": "Trello is a web-based project management application. Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way.",
+    "Category": "Project Management Tools",
+    "Status": "Approved - Preferred",
+    "Comments": "Security has issued an Authorization to Operate (ATO) at FIPS 199 Low impact to operate the Trello Inc. System until July 11, 2017.Due to no other known products that provide this capability being 508 compliant, this is being marked as approved-preferredVPAT documentation suggests this product is partially accessible to users of assistive technology (AT) but does not meet all the required provisions identified in the Section 508 technical standards. While you may elect to purchase a number of licenses, we recommend this product be limited to 10 licenses or less and only for users who do not use assistive technology. This will help reduce unforeseen liability to the agency for non-compliance. The government has the right to conduct independent testing of products to verify and validate the vendor VPAT. For .gov testing, contact   Section.508@gsa.gov in the Section 508 office. The purchaser should be advised that GSA policy requires IT products to meet provisions of Section 508."
+  },
+  {
+    "Standard Name": "Java Cryptography Extension (JCE) Unltd Strength Jurisdiction Policy Files 8",
+    "Description": "JCE is an officially released Standard Extension to the Java Platform. JCE provides a framework and implementation for encryption, key generation and key agreement, and Message Authentication Code (MAC) algorithms. This add-on software is required for the latest version of Tridium Niagara, which is used to manage building systems. Region 7 is first out of the gate, but this will roll out into other regions in the coming months.",
+    "Category": "Remote Access and Remote Control",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "PuTTY 0.6",
+    "Description": "PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms, along with an xterm terminal emulator.",
+    "Category": "Remote Access and Remote Control",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "CA Agile Central Add-in for Excel",
+    "Description": "Provides a quick and easy way to import or export data from your CA Agile Central subscription for tracking, reporting or sharing: Organize data in a pivot table or display data using Excel's built-in charting capabilities. Export multiple CA Agile Central object types into multiple tabs and cross reference the data for more complex needs. Import multiple CA Agile Central object types into CA Agile Central. Use the add-in to export all work items from a project, then import new items to another project. Create (not just update) new users as a bulk upload.",
+    "Category": "Reporting and Analysis",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Caseware Working Papers 2014",
+    "Description": "CaseWare Working Papers is highly flexible engagement software that provides you with everything you would expect from an assurance and reporting tool plus much, much more! Engagements are planned, performed and reviewed entirely on screen, completely eliminating paper.",
+    "Category": "Reporting and Analysis",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Decision Support Inc URSA Major 11.1",
+    "Description": "Decision Support is the leader in data access and reporting software solutions for the Unisys MCP environments. Our URSA Software Product Suite (URSA infoSuite) is a traditional Windows-based graphical reporting solution that is particularly well-suited for high-volume, centralized, institutional reporting needs. It offers a powerful interface to Unisys MCP operating system databases with numerous output formatting options.",
+    "Category": "Reporting and Analysis",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "JasperReports Server Community Edition 6.3",
+    "Description": "Jaspersoft BI Enterprise Edition comes with our multi-tenant enabled BI Server and provides our full breadth of self-service reporting and dashboard capabilities. Non-technical users can use the web-based tools to build their own reports, perform advanced analysis, and view interactive dashboards. The Enterprise Edition comes with the assurance of professional quality technical support and commercial licensing protection",
+    "Category": "Reporting and Analysis",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Microstrategy Server 10.2",
+    "Description": "MicroStrategy Intelligence Server delivers world-class monitoring, reporting, and analysis on one integrated platform, offering next-generation Business Intelligence capabilities for the full range of BI applications. MicroStrategy Intelligence Server is the architectural foundation of the MicroStrategy platform",
+    "Category": "Reporting and Analysis",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Microstrategy Web 10.2",
+    "Description": "MicroStrategy Web is a highly interactive, easy to use interface for all Business Intelligence (BI) reporting, analysis, and monitoring. Mapping services to create sophisticated Geospatial Information System (GIS) applications through the use of MicroStrategy GIS Connectors.",
+    "Category": "Reporting and Analysis",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Minitab Minitab 17",
+    "Description": "Minitab 17 has all the tools you need to effectively analyze your data. By guiding you to the right analysis and giving you clear results, Minitab helps you find meaningful solutions to your toughest business problems.http://www.minitab.com/en-us/products/minitab/features-list/",
+    "Category": "Reporting and Analysis",
+    "Status": "Approved - Preferred",
+    "Comments": "Click the link for the EARC approvalhttps://gsa.my.salesforce.com/0D53000001mGci1"
+  },
+  {
+    "Standard Name": "New Relic",
+    "Description": "Allows you to see before and after picture of your app's performance when a change has been deployed. Quickly back out of a change before it affects users in production.",
+    "Category": "Reporting and Analysis",
+    "Status": "Approved - Preferred",
+    "Comments": "Approved for Low Impact SaaS for an year (until Nov 2017)."
+  },
+  {
+    "Standard Name": "R-Project.org R 3.1",
+    "Description": "Provides users with powerful tools to perform data management, analysis, and reporting tasks using a simple text-based interface and a well-developed programming language. One common use case for R is repetitive/programmatic data cleaning followed by automated report generation, resulting in a large time savings and accuracy improvements compared to completing the same tasks manually in Excel. R is also widely used for statistical analysis and graphics creation.",
+    "Category": "Reporting and Analysis",
+    "Status": "Approved - Preferred",
+    "Comments": "Click the link for the EARC approval.https://gsa.my.salesforce.com/0D53000001rB0wi"
+  },
+  {
+    "Standard Name": "SAP Crystal Reports 14",
+    "Description": "Reporting technology for web and Windows developers. Crystal Reports allows the user to deliver interactive content from a variety of data sources and publish it to the web or integrate it with applications.",
+    "Category": "Reporting and Analysis",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Tableau Desktop 9.3",
+    "Description": "Tableau Desktop is data analysis that keeps you in the flow. It’s easy to learn, easy to use, and 10-100x faster than existing solutions. It’s built on breakthrough technology that translates pictures of data into optimized database queries. Use your natural ability to see patterns, identify trends and discover visual insights in seconds. No wizards, no scripts.",
+    "Category": "Reporting and Analysis",
+    "Status": "Approved - Preferred",
+    "Comments": "Click the link for the EARC approval.https://gsa.my.salesforce.com/0D53000001wtlzq"
+  },
+  {
+    "Standard Name": "Tableau Reader 9.3",
+    "Description": "Tableau Reader is a free desktop application that you can use to open and view visualizations built in Tableau Desktop. With Tableau Reader you’ll be able to open and interact with visualizations built with Tableau Desktop, data included. You can filter, drill-down and view details of the data as far as the author allows.",
+    "Category": "Reporting and Analysis",
+    "Status": "Approved - Preferred",
+    "Comments": "Click the link for the EARC approval.https://gsa.my.salesforce.com/0D53000001wtlzq"
+  },
+  {
+    "Standard Name": "Tableau Server 9.3",
+    "Description": "Tableau Server is an online solution for sharing, distributing, and collaborating on content created in Tableau. Shareable. Tableau Server users can create workbooks and views, dashboards, and data sources in Tableau Desktop, and then publish this content to the secure server. Tableau Server site and server administrators control who has access to server content to help protect sensitive data. Administrators can set user permissions on projects, workbooks, views, and data sources. Mobile. Users can see and interact with the most up-to-date server content from anywhere, whether they use a browser or mobile device.",
+    "Category": "Reporting and Analysis",
+    "Status": "Approved - Preferred",
+    "Comments": "Click the link for the EARC approvalhttps://gsa.my.salesforce.com/0D53000001qf9lY"
+  },
+  {
+    "Standard Name": "Oracle Java SE JRE 8",
+    "Description": "Runtime environment for Java-based applications.",
+    "Category": "Runtime Library",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Ai Squared ZoomText Magnifier/Reader 10.1",
+    "Description": "ZoomText Magnifier is an advanced screen magnification program that enlarges and enhances everything on the computer screen, making your computer easier to see and use.",
+    "Category": "Screen Reader",
+    "Status": "Approved - Preferred",
+    "Comments": "For the EARC approval click link below.https://gsa.my.salesforce.com/0D5t0000000D5MrFor more information on the product click link below.http://www.zoomtext.com/products/zoomtext-magnifierreader/"
+  },
+  {
+    "Standard Name": "Ai Squared ZoomText Magnifier/Reader 11",
+    "Description": "ZoomText Magnifier is an advanced screen magnification program that enlarges and enhances everything on the computer screen, making your computer easier to see and use.",
+    "Category": "Screen Reader",
+    "Status": "Approved - Preferred",
+    "Comments": "For more information on the product click link below.http://www.zoomtext.com/products/zoomtext-magnifierreader/"
+  },
+  {
+    "Standard Name": "Auditory Sciences Interact-AS Professional Edition",
+    "Description": "Interact-AS enables conversations with anyone, anytime, and anywhere. Instead of looking at a keyboard, waiting for an interpreter, or using pads of paper, Interact-AS supports true face-to-face communication.",
+    "Category": "Screen Reader",
+    "Status": "Approved - Preferred",
+    "Comments": "EARC approves this as an 'Approved - Preferred' standard.EARC approval link -- https://gsa.my.salesforce.com/0D5t0000003bg41"
+  },
+  {
+    "Standard Name": "Freedom Scientific JAWS 16",
+    "Description": "JAWS, Job Access With Speech, is a screen reader developed for computer users whose vision loss prevents them from seeing screen content or navigating with a mouse. JAWS provides speech and Braille output for the most popular computer applications on the users PC.",
+    "Category": "Screen Reader",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Freedom Scientific JAWS 17",
+    "Description": "JAWS, Job Access With Speech, is the world's most popular screen reader, developed for computer users whose vision loss prevents them from seeing screen content or navigating with a mouse. JAWS provides speech and Braille output for the most popular computer applications on your PC.",
+    "Category": "Screen Reader",
+    "Status": "Approved - Preferred",
+    "Comments": "This is a screen reader software. If a disabled user in GSA is a Federal Employee we can obtain this software through the Computer/Electronic Accommodations Program (CAP) - www.cap.mil"
+  },
+  {
+    "Standard Name": "OASIS eXtensible Access Control Markup Language (XACML) 2.0",
+    "Description": "eXtensible Access Control Markup Language (XACML) is an OASIS standard that describes both a policy language and an access control decision request/response language (both written in XML). The policy language is used to describe general access control requirements, and has standard extension points for defining new functions, data types, combining logic, etc. The request/response language lets you form a query to ask whether or not a given action should be allowed, and interpret the result. The response always includes an answer about whether the request should be allowed using one of four values: Permit, Deny, Indeterminate (an error occurred or some required value was missing, so a decision cannot be made) or Not Applicable (the request can't be answered by this service).",
+    "Category": "Scripting Language",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "OASIS Security Assertion Markup Language (SAML) 1.0",
+    "Description": "Security Assertion Markup Language (SAML, pronounced sam-el) is an XML-based, open-standard data format for exchanging authentication and authorization data between parties, in particular, between an identity provider and a service provider. SAML is a product of the OASIS Security Services Technical Committee. SAML dates from 2001; the most recent major update of SAML was published in 2005, but protocol enhancements have steadily been added through additional, optional standards. The single most important requirement that SAML addresses is web browser single sign-on (SSO). Single sign-on is common at the intranet level (using cookies, for example) but extending it beyond the intranet has been problematic and has led to the proliferation of non-interoperable proprietary technologies. Another more recent approach to addressing the browser SSO problem is the OpenID protocol.",
+    "Category": "Scripting Language",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "OASIS Security Assertion Markup Language (SAML) 1.1",
+    "Description": "Security Assertion Markup Language (SAML, pronounced sam-el) is an XML-based, open-standard data format for exchanging authentication and authorization data between parties, in particular, between an identity provider and a service provider. SAML is a product of the OASIS Security Services Technical Committee. SAML dates from 2001; the most recent major update of SAML was published in 2005, but protocol enhancements have steadily been added through additional, optional standards. The single most important requirement that SAML addresses is web browser single sign-on (SSO). Single sign-on is common at the intranet level (using cookies, for example) but extending it beyond the intranet has been problematic and has led to the proliferation of non-interoperable proprietary technologies. Another more recent approach to addressing the browser SSO problem is the OpenID protocol.",
+    "Category": "Scripting Language",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "OASIS Security Assertion Markup Language (SAML) 2.0",
+    "Description": "Security Assertion Markup Language (SAML, pronounced sam-el) is an XML-based, open-standard data format for exchanging authentication and authorization data between parties, in particular, between an identity provider and a service provider. SAML is a product of the OASIS Security Services Technical Committee. SAML dates from 2001; the most recent major update of SAML was published in 2005, but protocol enhancements have steadily been added through additional, optional standards. The single most important requirement that SAML addresses is web browser single sign-on (SSO). Single sign-on is common at the intranet level (using cookies, for example) but extending it beyond the intranet has been problematic and has led to the proliferation of non-interoperable proprietary technologies. Another more recent approach to addressing the browser SSO problem is the OpenID protocol.",
+    "Category": "Scripting Language",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "OASIS Service Provisioning Markup Language (SPML) 2.0",
+    "Description": "Service Provisioning Markup Language (SPML) is an XML-based framework, being developed by OASIS, for exchanging user, resource and service provisioning information between cooperating organizations. The Service Provisioning Markup language is the open standard for the integration and interoperation of service provisioning requests. SPML is an OASIS standard based on the concepts of Directory Service Markup Language. SPML version 1.0 was approved in October 2003. SPML version 2.0 was approved in April 2006. Security Assertion Markup Language exchanges the authorization data.",
+    "Category": "Scripting Language",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "OASIS XML Common Biometric Format (XCBF) 1.1",
+    "Description": "Providing a standard way to describe information that verifies identity based on human characteristics such as DNA, fingerprints, iris scans, and hand geometry.",
+    "Category": "Scripting Language",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "W3C Cascading Style Sheets 2",
+    "Description": "Cascading Style Sheets (CSS) is a simple mechanism for adding style (e.g., fonts, colors, spacing) to Web documents.",
+    "Category": "Scripting Language",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "W3C HTML 4",
+    "Description": "Presentation language (HyperText Markup Language) and document format used on the World Wide Web.",
+    "Category": "Scripting Language",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "W3C HTML 5",
+    "Description": "Presentation language (HyperText Markup Language) and document format used on the World Wide Web.",
+    "Category": "Scripting Language",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "W3C Simple Object Access Protocol (SOAP) 1.1",
+    "Description": "SOAP, originally an acronym for Simple Object Access protocol, is a protocol specification for exchanging structured information in the implementation of web services in computer networks. It uses XML Information Set for its message format, and relies on other application layer protocols, most notably Hypertext Transfer Protocol (HTTP) or Simple Mail Transfer Protocol (SMTP), for message negotiation and transmission.",
+    "Category": "Scripting Language",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Work Flow Language (WFL)",
+    "Description": "Work Flow Language, or WFL (\"wiffle\") is the process control language for the Unisys ClearPath/MCP series, and their operating system Master Control Program. Unlike JCL, WFL is a high-level structured language complete with subroutines (procedures and functions) with arguments and high-level program control flow instructions. WFL is used for high-level system operations, such as running tasks, moving and copying files, providing high-level recoverability.",
+    "Category": "Scripting Language",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "iisnode 0.2",
+    "Description": "A native IIS module that permits IIS to run JavaScript. Allows IIS to process JavaScript in support of Web Applications.",
+    "Category": "Scripting Language,Plugins/Libraries",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Strip Password Manager",
+    "Description": "The requirement for this software came from the great Ideas Hunt when users were requesting a software that could safely store password on their mobile devices and workstations instead of writing them on a piece of paper. The security team requirement was that the password database be kept on GSA servers or drives. There was a 16 character password limit on the software.",
+    "Category": "Security and Assurance",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Vormetric Cloud Encryption Gateway (CEG) Appliance 1.0",
+    "Description": "With the Vormetric Cloud Encryption Gateway, organizations can safeguard files in cloud storage environments, including Amazon Simple Storage Service (Amazon S3) and Caringo. The cloud security gateway solution encrypts sensitive data before it is saved to the cloud storage environment, enabling security teams to establish the visibility and control they need around sensitive assets. Like other Vormetric products, this cloud storage gateway solution relies on the Vormetric Data Security Manager for encryption key and policy management. As a result, customers never need to relinquish control of cryptographic keys to the provider and data never leaves the enterprise premises unencrypted or unaccounted for.",
+    "Category": "Security and Assurance",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Vormetric Data Security Manager (DSM) Appliance 5.3",
+    "Description": "The Vormetric Data Security Manager (DSM) is at the heart of the Vormetric Data Security Platform. The DSM enables your business to meet new security mandates, compliance requirements and risks across your organization at unprecedented efficiency by centralizing and simplifying the provisioning of encryption keys for all Vormetric products and many 3rd party devices.",
+    "Category": "Security and Assurance",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Centrify Server Suite for Mac",
+    "Description": "Centrify Server combines comprehensive bridging of Linux and UNIX systems to Active Directory with powerful privilege management, multi-factor authentication and session monitoring across Windows, Linux and UNIX systems. The net result is increased security, improved compliance and comprehensive reporting and auditing.",
+    "Category": "Servers/Computers",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Serena Software SBM 10",
+    "Description": "Serena Business Manager (SBM) is an IT Process Automation platform that enables easy creation of process-based applications for human and system work management.",
+    "Category": "Software Configuration Management",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "SFConservancy.org Git 2.3",
+    "Description": "GIT, is a decentralized SCM, or Software Configuration Management, system. Designed from the ground up to support teams to better manage software code and configuration management. the same GIT SCM installation can be used as either the client or the serverGIT is an open source tool, but also a standard framework leveraged by many commercial products, and as such, it is interoperable with those tools.",
+    "Category": "Software Configuration Management",
+    "Status": "Approved - Preferred",
+    "Comments": "Click the link for the EARC approval.https://gsa.my.salesforce.com/0D53000001yVHmW"
+  },
+  {
+    "Standard Name": "Nuance Communications Dragon NaturallySpeaking 13",
+    "Description": "Dragon NaturallySpeaking is the world’s best-selling speech recognition software for the computer. Create documents, spreadsheets and email simply by speaking. It’s three times faster than typing and delivers up to 99% accuracy. Control your computer by voice to open applications, create files, search the Web, schedule meetings, and more.",
+    "Category": "Speech Recognition",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Qualtrics Surveys",
+    "Description": "Qualtrics software enables users to do online data collection and analysis including market research, customer satisfaction and loyalty, product and concept testing, employee evaluations and website feedback.",
+    "Category": "Survey and Form Designer",
+    "Status": "Approved - Preferred",
+    "Comments": "The ATO is valid until 10/27/2017."
+  },
+  {
+    "Standard Name": "Adobe Connect 9",
+    "Description": "Adobe Connect 9 is software used to create general presentations, online training materials, web conferencing, learning modules, and user desktop sharing.",
+    "Category": "Video Conferencing",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "HP Software Security Center",
+    "Description": "Manager for WebInspect Enterprise",
+    "Category": "Vulnerabilities Scanning",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "HP WebInspect Enterprise (WIE)",
+    "Description": "Enterprise Web Vulnerability scanning tool",
+    "Category": "Vulnerabilities Scanning",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Tenable Nessus 5.3",
+    "Description": "Nessus is a vulnerability scanning platform for auditors and security analysts. Users can schedule scans across multiple scanners, use wizards to easily and quickly create policies, schedule scans and send results via email. Nessus supports many technologies including operating systems, network devices, hypervisors, databases, tablets/phones, web servers and critical infrastructure.",
+    "Category": "Vulnerabilities Scanning",
+    "Status": "Approved - Preferred",
+    "Comments": "Per Security, this is approved."
+  },
+  {
+    "Standard Name": "Tenable SecurityCenter",
+    "Description": "SecurityCenter consolidates and evaluates vulnerability data across your organization, prioritizing security risks and providing a clear view of your security posture. With SecurityCenter’s pre-built, highly customizable dashboards and reports, and the industry’s only Assurance Report Cards (ARCs), you can visualize, measure and analyze the effectiveness of your security program.",
+    "Category": "Vulnerabilities Scanning",
+    "Status": "Approved - Preferred",
+    "Comments": "Per Security, this is approved."
+  },
+  {
+    "Standard Name": "Core Impact",
+    "Description": "Performs penetration testing and vulnerability scanning. This product features many types of penetration tests, including network-based and remote host-based, as well as many other tools, including Wi-Fi network and web-based penetration tests.",
+    "Category": "Vulnerabilities Scanning,Intrusion Detection and Prevention",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Core Insight",
+    "Description": "Insight automates much of the vulnerability management workflow beginning with asset discovery. It takes in network topology based on a database of over 100 routers and firewalls, known exploits and data from other scan engines - should you opt not to use the PCI-approved network and web scanner that comes with the tool.",
+    "Category": "Vulnerabilities Scanning,Intrusion Detection and Prevention",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Metaspolit Pro",
+    "Description": "Enterprise Penetration Testing software",
+    "Category": "Vulnerabilities Scanning,Intrusion Detection and Prevention",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Google Chrome",
+    "Description": "Web browser from Google. Google Chrome is allowed to automatically update.",
+    "Category": "Web Browser",
+    "Status": "Approved - Preferred",
+    "Comments": "Generally Available"
+  },
+  {
+    "Standard Name": "Microsoft Internet Explorer 11",
+    "Description": "A Microsoft-built Internet browser product.",
+    "Category": "Web Browser",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Apache HTTP Server 2.4",
+    "Description": "The Apache HTTP Server Project is a collaborative software development effort aimed at creating a robust, commercial-grade, featureful, and freely-available source code implementation of an HTTP (Web) server. The project is jointly managed by a group of volunteers located around the world, using the Internet and the Web to communicate, plan, and develop the server and its related documentation.",
+    "Category": "Web Servers",
+    "Status": "Approved - Preferred",
+    "Comments": "-"
+  },
+  {
+    "Standard Name": "Nginx.org Nginx 1.10",
+    "Description": "nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP proxy server, originally written by Igor Sysoev. Nginx is one of the top load balancers, proxies and web servers in the industry. nginx allows us to build in HA and fault tolerance into specific application back end components instead of only load balancing on the front end. In this particular case, we plan to deploy nginx between JBOSS servers and Solr search engine for load balancing and caching of Solr queries/results. This is a minor upgrade to  most up to date version of this software.",
+    "Category": "Web Servers",
+    "Status": "Approved - Preferred",
+    "Comments": "EARC link: https://gsa.my.salesforce.com/0D5t0000002Qby3"
+  },
+  {
+    "Standard Name": "Corel WinZip 20",
+    "Description": "With just a click, open all major compression formats, including Zip, Zipx, RAR, 7Z, TAR, GZIP, VHD, XZ and more. Easily find, open, edit, move and share your files, whether they are on your computer, network or cloud service. Easily encrypt files as you zip to secure information and data. Create read-only PDFs and add watermarks to deter copying.",
+    "Category": "Workplace Productivity",
+    "Status": "Approved - Preferred",
+    "Comments": "EARC approved this as an 'Approved-Preferred' standard. The version 9 has security vulnerabilities."
+  }
+]

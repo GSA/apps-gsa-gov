@@ -1,0 +1,67 @@
+---
+layout: home
+---
+
+<div class="usa-hero">
+  <div class="usa-hero-overlay">
+    {% include header.html %}
+    <div class="usa-grid">
+      <div class="usa-width-one-whole">
+        <h2>BE MORE PRODUCTIVE</h2>
+        <h5>Search and compare cloud technologies.</h5>
+        <a href="{{site.baseurl}}/products" class="usa-button usa-button-secondary" id="products-button">Explore Products</a>
+      </div>
+    </div>
+    <div class="hero-search">
+      <div class="hero-search-container">
+        <form id="hero-search-form" action="{{site.baseurl}}/products" class="usa-search usa-search-big">
+          <div role="search">
+            <label class="usa-sr-only" for="search-field-big">Search big</label>
+            <input id="search-field-big" type="search" name="q" placeholder="what are you looking for? Click or press / to start searching">
+            <button type="submit">
+              <span class="usa-search-submit-text">Search</span>
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="usa-content">
+  <section class="features">
+    <div class="usa-grid">
+      <h1>Find the right product for your team.</h1>
+      <div class="usa-grid">
+        <div class="usa-width-one-half features-description">
+          <ul>
+            <li>
+              <h2>Explore and compare</h2>
+              <p>
+                Apps.gov features over 100 cutting-edge products to make your team more productive.
+              </p>
+            </li>
+            <br/>
+            <li>
+              <h2>Quickly evaluate a product</h2>
+              <p>
+                Each product page includes information on requirements, ATOs, and procurement options.
+              </p>
+            </li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+  </section>
+  <section class="list-product">
+    <div class="usa-grid">
+      <h1>Sell to the Federal Government</h1>
+      <p>
+        Apps.gov is a marketplace serving <span id="gov-stat">4.2 million</span> federal employees. Learn
+        more about listing your product.
+      </p>
+
+      <a href="{{site.baseurl}}/listing" class="usa-button usa-button-outline-inverse usa-button-big">List your Product <i class="fa fa-angle-double-right"></i></a>
+    </div>
+  </section>
+</div>

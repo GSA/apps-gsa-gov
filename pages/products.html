@@ -1,0 +1,26 @@
+---
+layout: default
+title: Products
+permalink: products/
+skip_index: true
+---
+<section class="usa-products">
+  <header class="products-header">
+    <h1>Products</h1>
+    <p>Discover products that will help your team be more productive.</p>
+  </header>
+  <ul class="usa-grid" id="product-list">
+    {% for product in site.data.products-testing %}
+    <li class="product-list-item">
+      <a href="{{site.baseurl}}/products/{{ product.slug }}/">
+        <div class="product-content">
+          <h3>{{ product.standard-name }}</h3>
+          <p>
+            {{ product.Description | truncate: 140, '...' }}
+          </p>
+        </div>
+      </a>
+    </li>
+    {% endfor %}
+  </div>
+</section>

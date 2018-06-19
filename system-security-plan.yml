@@ -1,0 +1,60 @@
+---
+name: Apps.GSA.gov
+uniqueID:
+version: 0.1.0
+phase: alpha
+information-types:
+- D26 Civilian Operations
+confidentiality: none
+integrity: low
+availability: low
+security-baseline: open data
+system-type: minor
+level-of-identity-assurance: 0
+staff:
+    authorizing-official:
+        name:
+        title:
+        org:
+        unit:
+        email:
+    system-owner:
+        name:
+        title:
+        org:
+        unit:
+        email:
+    system-management:
+        name:
+        title:
+        org:
+        unit:
+        email:
+    system-security-officer:
+        name:
+        title:
+        org:
+        unit:
+        email:
+    technical-lead:
+        name: Sara Cope
+        title: Sr. Engineer
+        org: General Services Administration
+        unit: CTO, Digital Service Team
+        email: sara.cope@gsa.gov
+leveraged-authorizations:
+- https://www.fedramp.gov/marketplace/compliant-systems/amazon-web-services-aws-eastwest-us-public-cloud/
+purpose:
+components:
+diagram:
+network-architecture:
+environments:
+- Amazon Web Services East / West
+- Cloud Foundry
+user-types:
+    developer:
+        functions:
+        - deployment
+        - engineering
+controls: https://compliance.cloud.gov/
+---
